@@ -55,7 +55,7 @@ Le but est d’obtenir :
 Pour télécharger l'app 乙3lphΨxメ Tweaks il faut :
 - ​Télécharger l’installer via le site dispo dans le serv si dessus
 - Suivre l’installation de 乙3lphΨxメ Tweaks
-​- Lancer 乙3lphΨxメ Tweaks en tant qu'administrateur pour un fonctionnement optimal
+- Lancer 乙3lphΨxメ Tweaks en tant qu'administrateur pour un fonctionnement optimal
 
 Profitez de la puissance de 乙3lphΨxメ Tweaks !
 
